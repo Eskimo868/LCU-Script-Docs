@@ -20,3 +20,7 @@ Contents
 
    usage
    api
+   test1
+   test2
+   test3
+   bafhbdfb
